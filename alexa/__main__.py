@@ -1167,7 +1167,7 @@ def main():
            tbot.disconnect()
         else:
            tbot.run_until_disconnected()
-        LOGGER.info("Successfully Started Alexa !")
+        LOGGER.info("Successfully Started Lillybot⚡ !")
     updater.idle()
 
 
